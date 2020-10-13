@@ -17,17 +17,17 @@ layout: contribute.hbs
 
 ## Apprentissage
 
-* [Official API reference documentation](https://nodejs.org/api/) details the Node.js API.
-* [NodeSchool.io](https://nodeschool.io/) will teach you Node.js concepts via interactive command-line games.
-* [Stack Overflow Node.js tag](https://stackoverflow.com/questions/tagged/node.js) collects new information every day.
-* [The DEV Community Node.js tag](https://dev.to/t/node) is a place to share Node.js projects, articles and tutorials as well as start discussions and ask for feedback on Node.js-related topics. Developers of all skill-levels are welcome to take part.
-* [Nodeiflux](https://discordapp.com/invite/vUsrbjd) is a friendly community of Node.js backend developers supporting each other on Discord.
+* [La documentation officielle de l'API](https://nodejs.org/api/) détaille l'API de Node.js.
+* [NodeSchool.io](https://nodeschool.io/) vous apprendra la logique de Node.js grâce à des jeux en ligne de commande interactifs.
+* [Le tag Stack Overflow Node.js](https://stackoverflow.com/questions/tagged/node.js) collecte des nouvelles informations chaque jour.
+* [Le tag DEV Community Node.js](https://dev.to/t/node) est un endroit où l'on peut partager ses programmes Node.js ainsi que des articles et tutoriels mais aussi débuter des discussions et demander des renseignements sur tout sujet lié à Node.js. Les développeurs de tout niveaux sont les bienvenus.
+* [Nodeiflux](https://discordapp.com/invite/vUsrbjd) est une communauté sympathique de développeurs back-end Node.js qui s'entraident sur Discord.
 
-## Site et projets des commuanutés internationales
+## Site et projets des communautés internationales
 
-* [communauté chinoise](https://cnodejs.org/)
-* [communauté hongroise (Magyar)](https://nodehun.blogspot.com/)
-* [communauté israelienne sur Facebook](https://www.facebook.com/groups/node.il/)
-* [communauté japonaise](https://nodejs.jp/)
-* [communauté espagnole sur Facebook](https://www.facebook.com/groups/node.es/)
+* [Communauté chinoise](https://cnodejs.org/)
+* [Communauté hongroise (Magyar)](https://nodehun.blogspot.com/)
+* [Communauté israélienne sur Facebook](https://www.facebook.com/groups/node.il/)
+* [Communauté japonaise](https://nodejs.jp/)
+* [Communauté espagnole sur Facebook](https://www.facebook.com/groups/node.es/)
 * [Vietnamese Node.js community](https://www.facebook.com/nodejs.vn/)

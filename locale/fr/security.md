@@ -11,7 +11,7 @@ Signalez une faille de sécurité Node.js via [HackerOne](https://hackerone.com/
 
 Votre signalement sera confirmé sous 24 heures, et vous recevrez une réponse détaillée à ce signalement dans un délai de 48 heures avec des indications sur les détails de la marche à suivre.
 
-Après sa réponse initiale à votre signalement, l'équipe de sécurité s'efforcera de vous tenir informé·e de ses avancées en direction d'un correctif et d'une annonce publique ; elle pourrait vous recontacter pour demander des informations complémentaires ou des conseils à propos de la faille. Les progrès seront notifiés au moins tous les cinq jours ; en pratique, ce délai est plutôt toutes les 24 à 48 heures.
+Après sa réponse initiale à votre signalement, l'équipe de sécurité s'efforcera de vous tenir informé·e de ses avancées en direction d'un correctif et d'une annonce publique; elle pourrait vous recontacter pour demander des informations complémentaires ou des conseils à propos de la faille. Les progrès seront notifiés au moins tous les cinq jours; en pratique, ce délai est plutôt toutes les 24 à 48 heures.
 
 ### Le programme « Bug Bounty » de Node.js
 
@@ -44,7 +44,7 @@ Merci de participer à l'amélioration de la sécurité de Node.js et de son éc
 Voici la politique de divulgation des failles de sécurité pour Node.js :
 
 * <https://groups.google.com/group/nodejs-sec>
-* [https://nodejs.org/fr/blog](https://nodejs.org/en/blog/)
+* [https://nodejs.org/fr/blog](https://nodejs.org/fr/blog/)
 
 ## Commentaires à propos de cette politique de sécurité
 

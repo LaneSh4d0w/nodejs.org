@@ -1,6 +1,6 @@
 ---
 layout: about-release-schedule.hbs
-title: Releases
+title: Versions
 statuses:
   maintenance: 'Maintenance LTS'
   active: 'Active LTS'

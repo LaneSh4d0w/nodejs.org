@@ -3,23 +3,23 @@ title: Dependencies
 layout: docs.hbs
 ---
 
-# Dependencies
+# Dépendances
 
-There are several dependencies that Node.js relies on to work the way it does.
+Il y a plusieurs dépendances dont Node.js se sert pour fonctionner correctement.
 
-* [Libraries](#libraries)
+* [Librairies](#librairies)
   * [V8](#v8)
   * [libuv](#libuv)
   * [llhttp](#llhttp)
   * [c-ares](#c-ares)
   * [OpenSSL](#openssl)
   * [zlib](#zlib)
-* [Tools](#tools)
+* [Outils](#tools)
   * [npm](#npm)
   * [gyp](#gyp)
   * [gtest](#gtest)
 
-## Libraries
+## Librairies
 
 ### V8
 
